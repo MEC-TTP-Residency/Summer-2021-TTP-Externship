@@ -31,13 +31,22 @@ Lab 2: Coding-related ice-breaker event
 
 
 ## Session 4 - Thurday, June 24, 2021
+**Topics** Intro to Data Structures
+
+**Slides** Juan
+
+**Labs** Juan
+
+
+## Session 5 - Friday, June 25, 2021
 **Topics** Collaborative Workflow with Git & GitHub: introduction to Git and GitHub
 
 **Slides** Jon
 
+**Labs** Juan
 
 
-## Session 5 - Friday, June 25, 2021
+## Session 6 - Monday, June 28, 2021
 **Topics** Collaborative Workflow with Git & GitHub: projects, issues
 
 **Slides** Jon
@@ -48,7 +57,7 @@ Lab 2: Coding-related ice-breaker event
 **Guest Speaker** 
 
 
-## Session 6 - Monday, June 28, 2021
+## Session 7 - Tuesday, June 29, 2021
 **Topics** Full-stack Development: front-end, back-end, API & databases
 
 **Slides** Juan - 
@@ -56,7 +65,7 @@ Lab 2: Coding-related ice-breaker event
 **Labs** -- thought excersize - existing app - how do you think it is split up?
 
 
-## Session 7 - Tuesday, June 29, 2021
+## Session 8 - Wednesday, June 30, 2021
 **Topics** Full-stack Development: front-end development - HTML
 
 **Slides** Jon [https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U](https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U) 
@@ -64,7 +73,7 @@ Lab 2: Coding-related ice-breaker event
 **Labs** Jon
 
 
-## Session 8 - Wednesday, June 30, 2021
+## Session 9 - Thursday, July 1, 2021
 **Topics** Full-stack Development: front-end development - CSS
 
 **Slides** Jon [https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U](https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U) 
@@ -72,7 +81,7 @@ Lab 2: Coding-related ice-breaker event
 **Labs** Jon
 
 
-## Session 9 - Thursday, July 1, 2021
+## Session 10 - Tuesday, July 6, 2021
 **Topics** Full-stack Development: front-end development - How HTML, CSS & JavaScript work together on the web
 
 **Slides** Jon [https://docs.google.com/presentation/d/1H8vU0GRrVMkWwVzptaBn6deUuW342GYuF_NE-eXFkq0/edit?usp=sharing](https://docs.google.com/presentation/d/1H8vU0GRrVMkWwVzptaBn6deUuW342GYuF_NE-eXFkq0/edit?usp=sharing)  
@@ -81,7 +90,7 @@ Lab 2: Coding-related ice-breaker event
 [https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-3](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-3)  
 
 
-## Session 10 - Tuesday, July 6, 2021
+## Session 11 - Wednesday, July 7, 2021
 **Topics** Full-stack Development: DOM manipulation using files - creating HTML, CSS and JS files (directory structure, projects)
 
 **Slides** Jon : 
@@ -90,7 +99,7 @@ Lab 2: Coding-related ice-breaker event
 [https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md)
 
 
-## Session 11 - Wednesday, July 7, 2021
+## Session 12 - Thursday, July 8, 2021
 **Topics** More Terminal stuff, file permissions, tools, etc
 
 **Slides** Juan
@@ -98,15 +107,15 @@ Lab 2: Coding-related ice-breaker event
 **Labs** Juan
 
 
-## Session 12 - Thursday, July 8, 2021
-**Topics** Libraries/Modules/Packages and NPM
+## Session 13 - Friday, July 9, 2021
+**Topics** Libraries/Modules/Packages and NPM / Second half: OOP
 
 **Slides** Jon
 
 **Assignment** Jon
 
 
-## Session 13 - Friday, July 9, 2021
+## Session 14 - Monday, July 12, 2021
 **Topics** Server Administration : processes, startup, killing, web server, node server, ram and resources, monitoring, storage monitoring
 
 **Slides** Juan
@@ -116,7 +125,7 @@ Lab 2: Coding-related ice-breaker event
 **Guest Speaker** 
 
 
-## Session 14 - Monday, July 12, 2021
+## Session 15 - Tuesday, July 13, 2021
 **Topics** Introduction to NodeJS
 
 **Slides** 
@@ -124,7 +133,7 @@ Lab 2: Coding-related ice-breaker event
 **Assignment** 
 
 
-## Session 15 - Tuesday, July 13, 2021
+## Session 16 - Wednesday, July 14, 2021
 **Topics** Mid-program review
 
 **Slides** 
@@ -132,7 +141,11 @@ Lab 2: Coding-related ice-breaker event
 **Assignment** 
 
 
-## Session 16 - Wednesday, July 14, 2021
+## Session 17 - Thursday, July 15, 2021
+**Topics** Technical Literacy
+
+
+## Session 18 - Friday, July 16, 2021
 **Topics** Introduction to REACT
 
 **Slides** 
@@ -140,7 +153,7 @@ Lab 2: Coding-related ice-breaker event
 **Assignment** 
 
 
-## Session 17 - Thursday, July 15, 2021
+## Session 19 - Monday, July 19, 2021
 **Topics** REACT: Understanding Components, Props & State
 
 **Slides** [https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing](https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing)  
@@ -149,7 +162,7 @@ Lab 2: Coding-related ice-breaker event
 [https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/7-custom-components.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/7-custom-components.md)
 
 
-## Session 18 - Friday, July 16, 2021
+## Session 20 - Tuesday, July 20, 2021
 **Topics** Pair programming
 
 **Slides** 
@@ -159,7 +172,7 @@ Lab 2: Coding-related ice-breaker event
 **Guest Speaker** 
 
 
-## Session 19 - Monday, July 19, 2021
+## Session 21 - Wednesday, July 21, 2021
 **Topics** REACT: state with hooks
 
 **Slides** 
@@ -167,7 +180,7 @@ Lab 2: Coding-related ice-breaker event
 **Assignment** 
 
 
-## Session 20 - Tuesday, July 20, 2021
+## Session 22 - Thursday, July 22, 2021
 **Topics** REACT: react router and Single Page Applications
 
 **Slides** 
@@ -176,7 +189,7 @@ Lab 2: Coding-related ice-breaker event
 [https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/8-now-with-pages.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/8-now-with-pages.md)
 
 
-## Session 21 - Wednesday, July 21, 2021
+## Session 23 - Friday, July 23, 2021
 **Topics** Code Patterns: forms and form validation
 
 **Slides** 
@@ -185,7 +198,7 @@ Lab 2: Coding-related ice-breaker event
 [https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/9-now-with-validated-forms.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/9-now-with-validated-forms.md)
 
 
-## Session 22 - Thursday, July 22, 2021
+## Session 24 - Monday, July 26, 2021
 **Topics** Code Patterns: asynchronous calls and promises
 
 **Slides** [https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing](https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing)  
@@ -195,7 +208,7 @@ Lab 2: Coding-related ice-breaker event
 [https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/11-capstone-outline.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/11-capstone-outline.md)
 
 
-## Session 23 - Friday, July 23, 2021
+## Session 25 - Tuesday, July 27, 2021
 **Topics** APIs
 
 **Slides** [https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing](https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing)  
@@ -205,7 +218,7 @@ Lab 2: Coding-related ice-breaker event
 **Guest Speaker** 
 
 
-## Session 24 - Monday, July 26, 2021
+## Session 27 - Thursday, July 29, 2021
 **Topics** Databases: SQL vs NoSQL
 
 **Slides** [https://docs.google.com/presentation/d/1h66_p_q0kKjs_N31fbJw3ejHf6s1plfHVRhTLNjJprQ/edit?usp=sharing](https://docs.google.com/presentation/d/1h66_p_q0kKjs_N31fbJw3ejHf6s1plfHVRhTLNjJprQ/edit?usp=sharing)
@@ -213,21 +226,12 @@ Lab 2: Coding-related ice-breaker event
 **Assignment** 
 
 
-## Session 25 - Tuesday, July 27, 2021
+## Session 28 - Friday, July 30, 2021
 **Topics** Use of NoSQL: 
 
 **Slides** 
 
 **Assignment** 
-
-
-## Session 26 - Wednesday, July 28, 2021
-
-
-## Session 27 - Thursday, July 29, 2021
-
-
-## Session 28 - Friday, July 30, 2021
 
 **Guest Speaker** 
 
