@@ -9,13 +9,14 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 **[Slides](https://docs.google.com/presentation/d/1rfwmGM8NBatsvZr1lZqFpEBi-ol1jMyHMFbCM90VgGQ)**
 
 ## Session 1 - Monday, June 21, 2021
+Introduction, Class Norms and ice-breaker
 **Topics** 
 
-Lecture 1: Introduction to format, goals, class culture, schedule, class norms
+Lecture 1: Introduction to format, review class culture, schedule, class norms
 
 Lab 1: Pre-assessment
 
-Lecture 2: Intro to staff and fellow students, logistics (ids, password, headsets), review pre-assessment
+Lecture 2: Intro to staff and fellow students, logistics (ids, password, headsets), review pre-assessment, github account for labs
 
 Lab 2: Coding-related ice-breaker event
 
@@ -23,10 +24,12 @@ Lab 2: Coding-related ice-breaker event
 
 
 ## Session 2 - Tuesday, June 22, 2021
-**Topics** Review of Coding Concepts: introduction to JavaScript, data flow, variables, syntax
+Review of Coding Concepts I
+**Topics** 
+
+introduction to JavaScript, data flow, variables, syntax
 
 **[Slides](https://docs.google.com/presentation/d/1FuGng29f2XOuitIvlYu9mMwieFOrcf8IknWFRizsrTE)**
-**Slides** Juan
 
 **Labs** Juan
 
