@@ -132,45 +132,65 @@ Lab 2: Using Variables with JavaScript
 [//]: #(**[Slides](https://docs.google.com/presentation/d/1iYcatFj7BL-Ha5gAP65tDVa5colpNH83FCV6pCdUb_g)**)
 
 
-**Labs** Jon : Responsive Comic  
-[https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-3](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-3)  
+**Labs** 
+
+[//]: # (Jon : Responsive Comic https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-3)
 
 
 ## Session 11 - Wednesday, July 7, 2021
 **Topics** Full-stack Development: DOM manipulation using files - creating HTML, CSS and JS files (directory structure, projects)
 
-**Slides** Jon : 
-**[Slides](https://docs.google.com/presentation/d/1n8B5cuQ1Vlc4dUkRYPoRhCZ8D9Adu6X8BzmBokJFalk)**
+**Slides** 
 
-**Assignment** Jon : Positive Projection  
-[https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md)
+[//]: #(Jon) 
+
+[//]: #(**[Slides](https://docs.google.com/presentation/d/1n8B5cuQ1Vlc4dUkRYPoRhCZ8D9Adu6X8BzmBokJFalk)**)
+
+**Assignment** 
+
+[//]: # (Jon : Positive Projection  )
+
+[//]: # ( https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md ) 
 
 
 ## Session 12 - Thursday, July 8, 2021
 **Topics** More Terminal stuff, file permissions, tools, etc
 
-**Slides** Juan
-**[Slides](https://docs.google.com/presentation/d/1MTQsPmn__Nzx0EpTZxrqTqwtMlBNGQ7u2IR0W9Jy3Jw)**
+**Slides** 
 
-**Labs** Juan
+[//]: # (Juan)
 
+[//]: # ( Slides https://docs.google.com/presentation/d/1MTQsPmn__Nzx0EpTZxrqTqwtMlBNGQ7u2IR0W9Jy3Jw )
+
+**Labs** 
+
+[//]: # (Juan)
 
 ## Session 13 - Friday, July 9, 2021
 **Topics** Libraries/Modules/Packages and NPM / Second half: OOP
 
 **Slides** Jon
-**[Slides](https://docs.google.com/presentation/d/1PqCEsDYhWO1MJIEgUJt-9MimwOEDQL1wbbf6vQmADGU)**
 
-**Assignment** Jon
+[//]: # (Jon)
 
+[//]: # (https://docs.google.com/presentation/d/1PqCEsDYhWO1MJIEgUJt-9MimwOEDQL1wbbf6vQmADGU)
+
+**Assignment** 
+
+[//]: # (Jon)
 
 ## Session 14 - Monday, July 12, 2021
 **Topics** Server Administration : processes, startup, killing, web server, node server, ram and resources, monitoring, storage monitoring
 
-**Slides** Juan
-**[Slides](https://docs.google.com/presentation/d/180DyqQZthpL3kyW3nIAM0Dvf7--1qp1v-1HjOsBp1gw)**
+**Slides** 
 
-**Labs** Juan
+[//]: # (Juan)
+
+[//]: # (https://docs.google.com/presentation/d/180DyqQZthpL3kyW3nIAM0Dvf7--1qp1v-1HjOsBp1gw)
+
+**Labs** 
+
+[//]: # (Juan)
 
 **Guest Speaker** 
 
@@ -179,6 +199,8 @@ Lab 2: Using Variables with JavaScript
 **Topics** Introduction to NodeJS
 
 **Slides** 
+
+[]
 **[Slides](https://docs.google.com/presentation/d/1qxJKhdLSGKusTMSlsQ1I2Dnxz90Fs9x_rhe9CHQoYno)**
 
 **Assignment** 
