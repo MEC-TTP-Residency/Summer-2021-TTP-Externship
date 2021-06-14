@@ -6,7 +6,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Orientation - Monday, June 14, 2021
 **Topics** Goals, Structure, Schedule, Topics Covered, Project Schedule, Q&A 
 
-**[Slides](https://docs.google.com/presentation/d/1rfwmGM8NBatsvZr1lZqFpEBi-ol1jMyHMFbCM90VgGQ)**
+**[Slides](https://drive.google.com/file/d/1TfmiebIzjiOJPrks3zosQy5ehXmBspoP)**
 
 ## Session 1 - Monday, June 21, 2021
 Introduction, Class Norms and ice-breaker
@@ -24,50 +24,66 @@ Lab 2: Coding-related ice-breaker event
 
 
 ## Session 2 - Tuesday, June 22, 2021
+[//]: Juan
 Review of Coding Concepts I
 **Topics** 
 
-introduction to JavaScript, data flow, variables, syntax
+Lecture 1: Data Flow, Variables, Syntax
+
+Lab 1: Practice Understanding Syntax
+
+Lecture 2: Introduction to JavaScript
+
+Lab 2: Using Variables with JavaScript
 
 **[Slides](https://docs.google.com/presentation/d/1FuGng29f2XOuitIvlYu9mMwieFOrcf8IknWFRizsrTE)**
-
-**Labs** Juan
 
 
 ## Session 3 - Wednesday, June 23, 2021
 **Topics** Review of Coding Concepts: control structures, functions
 
-**[Slides](https://docs.google.com/presentation/d/1cAcpy-ewYA5RRrjCzoN2QQ8753ozXJcgx9Lxrnz-kbU)**
+**Slides** 
 
-**Labs** Juan
+**Labs** 
+
+[//]: Juan
 
 
 ## Session 4 - Thurday, June 24, 2021
 **Topics** Intro to Data Structures
 
-**Slides** Juan**Slides** Juan
-**[Slides](https://docs.google.com/presentation/d/1M3Bk9LF7kqqbrCrmUn-XtEhFOS0QrPu3BvwqpZhFofk)**
+**Slides** 
 
-**Labs** Juan
+[//]: Juan
+
+**Labs** 
+
+[//]: Juan
 
 
 ## Session 5 - Friday, June 25, 2021
 **Topics** Collaborative Workflow with Git & GitHub: introduction to Git and GitHub
 
-**Slides** Jon
-**[Slides](https://docs.google.com/presentation/d/1JQK_VIccxvTQ_gb9Ifhi-A7mXZ5piVtDP4R-3_C38LQ)**
+**Slides** 
 
-**Labs** Juan
+[//]: Jon
+**[](https://docs.google.com/presentation/d/1JQK_VIccxvTQ_gb9Ifhi-A7mXZ5piVtDP4R-3_C38LQ)**
+
+**Labs** 
+
+[//]: Juan
 
 
 ## Session 6 - Monday, June 28, 2021
 **Topics** Collaborative Workflow with Git & GitHub: projects, issues
 
-**Slides** Jon
-**[Slides](https://docs.google.com/presentation/d/1zYfH1eD6lgG8GiNy4PZRE87bGBYg_8g_t29lQdex2GE)**
+**Slides** 
+
+[//]: Jon
 
 **Labs** Choose Your Own Adventure  
-[https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1)
+
+[//]: [https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1)
 
 **Guest Speaker** 
 
@@ -75,35 +91,46 @@ introduction to JavaScript, data flow, variables, syntax
 ## Session 7 - Tuesday, June 29, 2021
 **Topics** Full-stack Development: front-end, back-end, API & databases
 
-**Slides** Juan - 
-**[Slides](https://docs.google.com/presentation/d/1tjcYhNMBJJCNPg4upHk42yykAC5aHav7VAR_HtWf4Ds)**
+**Slides** 
 
-**Labs** -- thought excersize - existing app - how do you think it is split up?
+[//]: Juan 
+
+**Labs** 
+
+[//]: # ( thought excersize, existing app, how do you think it is split up)
 
 
 ## Session 8 - Wednesday, June 30, 2021
 **Topics** Full-stack Development: front-end development - HTML
 
-**[Slides](https://docs.google.com/presentation/d/1qaiVqg4qGjE5Ka9Xq0Rk5e0NsHMjT4QbLSsL5W0pR1U)**
-**Slides** Jon [https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U](https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U) 
+**Slides** 
 
-**Labs** Jon
+[//]: #(**[Slides](https://docs.google.com/presentation/d/1qaiVqg4qGjE5Ka9Xq0Rk5e0NsHMjT4QbLSsL5W0pR1U)**)
+
+**Labs** 
+
+[//]: #(Jon)
 
 
 ## Session 9 - Thursday, July 1, 2021
 **Topics** Full-stack Development: front-end development - CSS
 
-**[Slides](https://docs.google.com/presentation/d/10rKjL7UtKseYQgUDpRYAVdKWbUJ6F9qyfYnLIajnM1k)**
-**Slides** Jon [https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U](https://docs.google.com/presentation/d/11WGjM4F8WFEZyQg-eVra43ykjtli9J9HXPTQNb7iS9U) 
+**Slides** 
 
-**Labs** Jon
+[//]: #(**[Slides](https://docs.google.com/presentation/d/10rKjL7UtKseYQgUDpRYAVdKWbUJ6F9qyfYnLIajnM1k)**)
+
+**Labs** 
+
+[//]: #(Jon)
 
 
 ## Session 10 - Tuesday, July 6, 2021
 **Topics** Full-stack Development: front-end development - How HTML, CSS & JavaScript work together on the web
 
-**[Slides](https://docs.google.com/presentation/d/1iYcatFj7BL-Ha5gAP65tDVa5colpNH83FCV6pCdUb_g)**
-**Slides** Jon [https://docs.google.com/presentation/d/1H8vU0GRrVMkWwVzptaBn6deUuW342GYuF_NE-eXFkq0/edit?usp=sharing](https://docs.google.com/presentation/d/1H8vU0GRrVMkWwVzptaBn6deUuW342GYuF_NE-eXFkq0/edit?usp=sharing)  
+**Slides**
+
+[//]: #(**[Slides](https://docs.google.com/presentation/d/1iYcatFj7BL-Ha5gAP65tDVa5colpNH83FCV6pCdUb_g)**)
+
 
 **Labs** Jon : Responsive Comic  
 [https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-3](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-3)  
