@@ -200,8 +200,7 @@ Lab 2: Using Variables with JavaScript
 
 **Slides** 
 
-[]
-**[Slides](https://docs.google.com/presentation/d/1qxJKhdLSGKusTMSlsQ1I2Dnxz90Fs9x_rhe9CHQoYno)**
+[//]: # ( Slides https://docs.google.com/presentation/d/1qxJKhdLSGKusTMSlsQ1I2Dnxz90Fs9x_rhe9CHQoYno)
 
 **Assignment** 
 
@@ -210,7 +209,8 @@ Lab 2: Using Variables with JavaScript
 **Topics** Mid-program review
 
 **Slides** 
-**[Slides](https://docs.google.com/presentation/d/16xvNLQKDvjmfwRfot5ER_Ku5rIfHx9Dn4TRa5pT8qqU)**
+
+[//]: # ( Slides https://docs.google.com/presentation/d/16xvNLQKDvjmfwRfot5ER_Ku5rIfHx9Dn4TRa5pT8qqU)
 
 **Assignment** 
 
@@ -218,13 +218,16 @@ Lab 2: Using Variables with JavaScript
 ## Session 17 - Thursday, July 15, 2021
 **Topics** Technical Literacy
 
-**[Slides](https://docs.google.com/presentation/d/1WommqgnF3iBWrGV-K4LWT5iBMXA19QD4eBZ9RQkyChM)**
+**Slides** 
+
+[//]: # (Slides https://docs.google.com/presentation/d/1WommqgnF3iBWrGV-K4LWT5iBMXA19QD4eBZ9RQkyChM)
 
 ## Session 18 - Friday, July 16, 2021
 **Topics** Introduction to REACT
 
 **Slides** 
-**[Slides](https://docs.google.com/presentation/d/1hi86K8t9nhbTo_d8ZsYtvONd8ElBwrL86i-dmbF_U-I)**
+
+[//]: # ( Slides https://docs.google.com/presentation/d/1hi86K8t9nhbTo_d8ZsYtvONd8ElBwrL86i-dmbF_U-I )
 
 **Assignment** 
 
@@ -232,18 +235,23 @@ Lab 2: Using Variables with JavaScript
 ## Session 19 - Monday, July 19, 2021
 **Topics** REACT: Understanding Components, Props & State
 
-**Slides** [https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing](https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing)  
-**[Slides](https://docs.google.com/presentation/d/11961q0XyVIdIJgAdEUlQYd4CT_5Vp3lzQBOlOTfsO3g)**
+**Slides** 
+
+[//]: # ( https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing)  
+
+[//]: # ( Slides https://docs.google.com/presentation/d/11961q0XyVIdIJgAdEUlQYd4CT_5Vp3lzQBOlOTfsO3g)
 
 **Assignment** Custom Components  
-[https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/7-custom-components.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/7-custom-components.md)
+
+[//]: # ( https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/7-custom-components.md)
 
 
 ## Session 20 - Tuesday, July 20, 2021
 **Topics** Pair programming
 
 **Slides** 
-**[Slides](https://docs.google.com/presentation/d/1rpB7xqh2A8y_lRUQE526G34Xy05tQzXP-ERWhzAhAbs)**
+
+[//]: # (https://docs.google.com/presentation/d/1rpB7xqh2A8y_lRUQE526G34Xy05tQzXP-ERWhzAhAbs)
 
 **Assignment** 
 
@@ -254,7 +262,8 @@ Lab 2: Using Variables with JavaScript
 **Topics** REACT: state with hooks
 
 **Slides** 
-**[Slides](https://docs.google.com/presentation/d/1utWXr2UFu0SZLsxz7biPunAbNkFZEy61QLECPR-moIY)**
+
+[//]: # (https://docs.google.com/presentation/d/1utWXr2UFu0SZLsxz7biPunAbNkFZEy61QLECPR-moIY)
 
 **Assignment** 
 
@@ -263,7 +272,8 @@ Lab 2: Using Variables with JavaScript
 **Topics** REACT: react router and Single Page Applications
 
 **Slides** 
-**[Slides](https://docs.google.com/presentation/d/1WANSJrt0Te1LBizf1l6b4sRammjzHI8MiSeHXF9sK2w)**
+
+[//]: # (https://docs.google.com/presentation/d/1WANSJrt0Te1LBizf1l6b4sRammjzHI8MiSeHXF9sK2w)
 
 **Assignment** Now with Pages!  
 [https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/8-now-with-pages.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/8-now-with-pages.md)
@@ -273,7 +283,8 @@ Lab 2: Using Variables with JavaScript
 **Topics** Code Patterns: forms and form validation
 
 **Slides** 
-**[Slides](https://docs.google.com/presentation/d/1VytDY1I4mysZZ4hBM8nU5qRHMMrWKXtmyAOGlsO3Y1M)**
+
+[//]: # (https://docs.google.com/presentation/d/1VytDY1I4mysZZ4hBM8nU5qRHMMrWKXtmyAOGlsO3Y1M)
 
 **Assignment** Now with Validated Forms  
 [https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/9-now-with-validated-forms.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/9-now-with-validated-forms.md)
@@ -282,21 +293,31 @@ Lab 2: Using Variables with JavaScript
 ## Session 24 - Monday, July 26, 2021
 **Topics** Code Patterns: asynchronous calls and promises
 
-**Slides** [https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing](https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing)  
-**[Slides](https://docs.google.com/presentation/d/1foJUJnG1JO4JYYohbUdqK7k8HmXj6fhUKbraHBCOeIc)**
+**Slides** 
+
+[//]: # ( https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing )
+
+[//]: # ( https://docs.google.com/presentation/d/1foJUJnG1JO4JYYohbUdqK7k8HmXj6fhUKbraHBCOeIc)
 
 **Assignment** En Español, Capstone Outline  
-[https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/10-en-espanol.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/10-en-espanol.md)  
-[https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/11-capstone-outline.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/11-capstone-outline.md)
+
+[//]: # ( https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/10-en-espanol.md )  
+
+[//]: # ( https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/11-capstone-outline.md)
 
 
 ## Session 25 - Tuesday, July 27, 2021
 **Topics** APIs
 
-**Slides** [https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing](https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing)  
-**[Slides](https://docs.google.com/presentation/d/1sEYvPmocwXQM4Y_QR8DWFR5HgWlJfGm8RV_RJR9bR_4)**
+**Slides** 
 
-**Assignment** [https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing](https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing)  
+[//]: # ( https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing )
+
+[//]: # ( https://docs.google.com/presentation/d/1sEYvPmocwXQM4Y_QR8DWFR5HgWlJfGm8RV_RJR9bR_4 )
+
+**Assignment** 
+
+[//]: # ( https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing )  
 
 **Guest Speaker** 
 
@@ -304,8 +325,11 @@ Lab 2: Using Variables with JavaScript
 ## Session 27 - Thursday, July 29, 2021
 **Topics** Databases: SQL vs NoSQL
 
-**Slides** [https://docs.google.com/presentation/d/1h66_p_q0kKjs_N31fbJw3ejHf6s1plfHVRhTLNjJprQ/edit?usp=sharing](https://docs.google.com/presentation/d/1h66_p_q0kKjs_N31fbJw3ejHf6s1plfHVRhTLNjJprQ/edit?usp=sharing)
-**[Slides](https://docs.google.com/presentation/d/1rlcahAQBfYcgSzRLA5vM4i0t-XKU334CR7Ue-U39ImQ)**
+**Slides** 
+
+[//]: # ( https://docs.google.com/presentation/d/1h66_p_q0kKjs_N31fbJw3ejHf6s1plfHVRhTLNjJprQ/edit?usp=sharing )
+
+[//]: # ( https://docs.google.com/presentation/d/1rlcahAQBfYcgSzRLA5vM4i0t-XKU334CR7Ue-U39ImQ )
 
 **Assignment** 
 
@@ -314,7 +338,8 @@ Lab 2: Using Variables with JavaScript
 **Topics** Use of NoSQL: 
 
 **Slides** 
-**[Slides](https://docs.google.com/presentation/d/1FTvD40aVXCyH1gG2b_zUu_wF1ZsEFhocV1m_y4VAg6I)**
+
+[//]: # ( https://docs.google.com/presentation/d/1FTvD40aVXCyH1gG2b_zUu_wF1ZsEFhocV1m_y4VAg6I )
 
 **Assignment** 
 
@@ -367,7 +392,8 @@ Lab 2: Using Variables with JavaScript
 **Topics** Welcome back and prep to present Industry Project
 
 **Slides** 
-**[Slides](https://docs.google.com/presentation/d/1VEa9OnGZkEWfrgThGIbbVHxJ7cQJfsvRSpQ6rMnpqqs)**
+
+[//]: # ( https://docs.google.com/presentation/d/1VEa9OnGZkEWfrgThGIbbVHxJ7cQJfsvRSpQ6rMnpqqs )
 
 **Assignment** 
 
@@ -376,6 +402,7 @@ Lab 2: Using Variables with JavaScript
 **Topics** Industry Project presentations and program end
 
 **Slides** 
-**[Slides](https://docs.google.com/presentation/d/1rPG0LNK-xYJ5RyVdoOzHu0AYocMcnr6zvcK-G_rOygQ)**
+
+[//]: # ( https://docs.google.com/presentation/d/1rPG0LNK-xYJ5RyVdoOzHu0AYocMcnr6zvcK-G_rOygQ )
 
 **Assignment** 
