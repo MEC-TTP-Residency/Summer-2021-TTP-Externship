@@ -221,34 +221,40 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 <br />
 
 ## Session 16 - Wednesday, July 14, 2021
-**Topics** Mid-program review
+**Topics:** Mid-program review
 
 **Slides** 
 
 [//]: # ( Slides https://docs.google.com/presentation/d/16xvNLQKDvjmfwRfot5ER_Ku5rIfHx9Dn4TRa5pT8qqU)
 
-**Assignment** 
+**Games:** Review What's Been Learned with Games
 
+<br />
 
 ## Session 17 - Thursday, July 15, 2021
-**Topics** Technical Literacy
+**Topics:** Technical Literacy
 
 **Slides** 
 
 [//]: # (Slides https://docs.google.com/presentation/d/1WommqgnF3iBWrGV-K4LWT5iBMXA19QD4eBZ9RQkyChM)
 
+**Labs:** Virtual Fact Finding Mission
+
+<br />
+
 ## Session 18 - Friday, July 16, 2021
-**Topics** Introduction to REACT
+**Topics:** Introduction to REACT
 
 **Slides** 
 
 [//]: # ( Slides https://docs.google.com/presentation/d/1hi86K8t9nhbTo_d8ZsYtvONd8ElBwrL86i-dmbF_U-I )
 
-**Assignment** 
+**Labs:** [Positive Projection](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md)
 
+<br />
 
 ## Session 19 - Monday, July 19, 2021
-**Topics** REACT: Understanding Components, Props & State
+**Topics:** REACT: Understanding Components, Props & State
 
 **Slides** 
 
@@ -256,57 +262,58 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 
 [//]: # ( Slides https://docs.google.com/presentation/d/11961q0XyVIdIJgAdEUlQYd4CT_5Vp3lzQBOlOTfsO3g)
 
-**Assignment** Custom Components  
+**Labs:** [Custom Components](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/7-custom-components.md)
 
-[//]: # ( https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/7-custom-components.md)
-
+<br />
 
 ## Session 20 - Tuesday, July 20, 2021
-**Topics** Pair programming
+**Topics:** Pair programming
 
 **Slides** 
 
 [//]: # (https://docs.google.com/presentation/d/1rpB7xqh2A8y_lRUQE526G34Xy05tQzXP-ERWhzAhAbs)
 
-**Assignment** 
+**Labs:** Pair Programming Practice (say 3 times fast)
 
 **Guest Speaker** 
 
+<br />
 
 ## Session 21 - Wednesday, July 21, 2021
-**Topics** REACT: state with hooks
+**Topics:** REACT: state with hooks
 
 **Slides** 
 
 [//]: # (https://docs.google.com/presentation/d/1utWXr2UFu0SZLsxz7biPunAbNkFZEy61QLECPR-moIY)
 
-**Assignment** 
+**Labs:** Fun with React Hooks
 
+<br />
 
 ## Session 22 - Thursday, July 22, 2021
-**Topics** REACT: react router and Single Page Applications
+**Topics:** REACT: react router and Single Page Applications
 
 **Slides** 
 
 [//]: # (https://docs.google.com/presentation/d/1WANSJrt0Te1LBizf1l6b4sRammjzHI8MiSeHXF9sK2w)
 
-**Assignment** Now with Pages!  
-[https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/8-now-with-pages.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/8-now-with-pages.md)
+**Labs:** [Now with Pages!](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/8-now-with-pages.md)
 
+<br />
 
 ## Session 23 - Friday, July 23, 2021
-**Topics** Code Patterns: forms and form validation
+**Topics:** Code Patterns: forms and form validation
 
 **Slides** 
 
 [//]: # (https://docs.google.com/presentation/d/1VytDY1I4mysZZ4hBM8nU5qRHMMrWKXtmyAOGlsO3Y1M)
 
-**Assignment** Now with Validated Forms  
-[https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/9-now-with-validated-forms.md](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/9-now-with-validated-forms.md)
+**Labs:** [Now with Validated Forms](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/9-now-with-validated-forms.md)
 
+<br />
 
 ## Session 24 - Monday, July 26, 2021
-**Topics** Code Patterns: asynchronous calls and promises
+**Topics:** Code Patterns: asynchronous calls and promises
 
 **Slides** 
 
@@ -314,15 +321,14 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 
 [//]: # ( https://docs.google.com/presentation/d/1foJUJnG1JO4JYYohbUdqK7k8HmXj6fhUKbraHBCOeIc)
 
-**Assignment** En Español, Capstone Outline  
-
-[//]: # ( https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/10-en-espanol.md )  
+**Labs:** [En Español](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/10-en-espanol.md)  
 
 [//]: # ( https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/11-capstone-outline.md)
 
+<br />
 
 ## Session 25 - Tuesday, July 27, 2021
-**Topics** APIs
+**Topics:** APIs
 
 **Slides** 
 
@@ -330,12 +336,13 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 
 [//]: # ( https://docs.google.com/presentation/d/1sEYvPmocwXQM4Y_QR8DWFR5HgWlJfGm8RV_RJR9bR_4 )
 
-**Assignment** 
+**Labs:** [Mas En Español!](https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/10-en-espanol.md)  
 
 [//]: # ( https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing )  
 
 **Guest Speaker** 
 
+<br />
 
 ## Session 27 - Thursday, July 29, 2021
 **Topics** Databases: SQL vs NoSQL
@@ -346,78 +353,93 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 
 [//]: # ( https://docs.google.com/presentation/d/1rlcahAQBfYcgSzRLA5vM4i0t-XKU334CR7Ue-U39ImQ )
 
-**Assignment** 
+**Labs:** [I Can Has SQL?]()
 
+<br />
 
 ## Session 28 - Friday, July 30, 2021
-**Topics** Use of NoSQL: 
+**Topics:** Use of NoSQL: 
 
 **Slides** 
 
 [//]: # ( https://docs.google.com/presentation/d/1FTvD40aVXCyH1gG2b_zUu_wF1ZsEFhocV1m_y4VAg6I )
 
-**Assignment** 
+**Labs:** [I Can Has NoSQL.]()
 
 **Guest Speaker** 
 
+<br />
 
 ## Session 29 - Monday, August 2, 2021
 **Industry Project**
 
 **Kick-off**
 
+<br />
 
 ## Session 30 - Tuesday, August 3, 2021
 **Industry Project**
 
+<br />
 
 ## Session 31 - Wednesday, August 4, 2021
 **Industry Project**
 
+<br />
 
 ## Session 32 - Thursday, August 5, 2021
 **Industry Project**
 
+<br />
 
 ## Session 33 - Friday, August 6, 2021
 **Industry Project**
 
+<br />
 
 ## Session 34 - Monday, August 9, 2021
 **Industry Project**
 
+<br />
 
 ## Session 35 - Tuesday, August 10, 2021
 **Industry Project**
 
+<br />
 
 ## Session 36 - Wednesday, August 11, 2021
 **Industry Project**
 
+<br />
 
 ## Session 37 - Thursday, August 12, 2021
 **Industry Project**
 
+<br />
 
 ## Session 38 - Friday, August 13, 2021
 **Industry Project**
 
+<br />
 
 ## Session 39 - Monday, August 16, 2021
-**Topics** Welcome back and prep to present Industry Project
+**Topics** Welcome back and prep to present Industry Project, What was Learned, Post Assessment
 
 **Slides** 
 
 [//]: # ( https://docs.google.com/presentation/d/1VEa9OnGZkEWfrgThGIbbVHxJ7cQJfsvRSpQ6rMnpqqs )
 
-**Assignment** 
+**Lab 1:** Practice Presentations
 
+**Lab 2:** Post Assessment
+
+<br />
 
 ## Session 40 - Tuesday, August 17, 2021
-**Topics** Industry Project presentations and program end
+**Topics:** Industry Project presentations and program wrap-up
 
-**Slides** 
+**Presentations** 
 
 [//]: # ( https://docs.google.com/presentation/d/1rPG0LNK-xYJ5RyVdoOzHu0AYocMcnr6zvcK-G_rOygQ )
 
-**Assignment** 
+**Goodbye :(** 
