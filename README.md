@@ -4,75 +4,73 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 # Schedule
 
 ## Orientation - Monday, June 14, 2021
-**Topics** Goals, Structure, Schedule, Topics Covered, Project Schedule, Q&A 
+
+**Topics:** Goals, Structure, Schedule, Topics Covered, Project Schedule, Q&A 
 
 **[Slides](https://drive.google.com/file/d/1TfmiebIzjiOJPrks3zosQy5ehXmBspoP)**
 
 ## Session 1 - Monday, June 21, 2021
-Introduction, Class Norms and ice-breaker
-**Topics** 
-
-Lecture 1: Introduction to format, review class culture, schedule, class norms
-
-Lab 1: Pre-assessment
-
-Lecture 2: Intro to staff and fellow students, logistics (ids, password, headsets), review pre-assessment, github account for labs
-
-Lab 2: Coding-related ice-breaker event
+**Topics:** Introduction to format, review class culture, schedule, class norms, Intro to staff and fellow students, logistics (ids, password, headsets), review pre-assessment, github account for labs
 
 **[Slides](https://docs.google.com/presentation/d/1rpermynBEVWqC8lx8VeczTwn0nx-JBGJw2evK9EbSS8)**
 
+**Lab 1:** Pre-assessment
+
+**Lab 2:** Coding-related ice-breaker event
+
+<br />
 
 ## Session 2 - Tuesday, June 22, 2021
 [//]: Juan
-Review of Coding Concepts I
-**Topics** 
-
-Lecture 1: Data Flow, Variables, Syntax
-
-Lab 1: Practice Understanding Syntax
-
-Lecture 2: Introduction to JavaScript
-
-Lab 2: Using Variables with JavaScript
+**Topics:** Review of Coding Concepts - Data Flow, Variables, Syntax, Introduction to JavaScript
 
 **[Slides](https://docs.google.com/presentation/d/1FuGng29f2XOuitIvlYu9mMwieFOrcf8IknWFRizsrTE)**
 
+**Lab 1:** Practice Understanding Syntax
+
+**Lab 2:** Using Variables with JavaScript
+
+<br />
 
 ## Session 3 - Wednesday, June 23, 2021
-**Topics** Review of Coding Concepts: control structures, functions
+**Topics:** Review of Coding Concepts - Control Structures, Functions
 
 **Slides** 
 
-**Labs** 
+**Labs 1:** Practice with Control Structures and Functions
+
+**Labs 2:** Additional Javascript Function Signatures
 
 [//]: Juan
 
+<br />
 
 ## Session 4 - Thurday, June 24, 2021
-**Topics** Intro to Data Structures
+**Topics:** Intro to Data Structures - What are DS?, Arrays, Linked Lists, Stacks & Queues, Graphs, Trees
+
+[//]: Juan
 
 **Slides** 
 
-[//]: Juan
+**Labs 1:** Understanding Stacks with Tower of Hanoi
 
-**Labs** 
+**Labs 2:** De-constructing JavaScript Linked-List
 
-[//]: Juan
-
+<br />
 
 ## Session 5 - Friday, June 25, 2021
-**Topics** Collaborative Workflow with Git & GitHub: introduction to Git and GitHub
+**Topics:** Collaborative Workflow with Git & GitHub: introduction to Git and GitHub
 
 **Slides** 
 
 [//]: Jon
 **[](https://docs.google.com/presentation/d/1JQK_VIccxvTQ_gb9Ifhi-A7mXZ5piVtDP4R-3_C38LQ)**
 
-**Labs** 
+**Labs:** [Choose Your Own Adventure](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1)
 
 [//]: Juan
 
+<br />
 
 ## Session 6 - Monday, June 28, 2021
 **Topics** Collaborative Workflow with Git & GitHub: projects, issues
@@ -81,64 +79,70 @@ Lab 2: Using Variables with JavaScript
 
 [//]: Jon
 
-**Labs** Choose Your Own Adventure  
-
-[//]: [https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1)
+**Labs:** [Blackjack Game Engine](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1)
 
 **Guest Speaker** 
 
+<br />
 
 ## Session 7 - Tuesday, June 29, 2021
-**Topics** Full-stack Development: front-end, back-end, API & databases
+**Topics:** Full-stack Development: front-end, back-end, API & databases
 
 **Slides** 
 
 [//]: Juan 
 
-**Labs** 
+**Lab 1:** Dissecting Your Favorite App
+
+**Lab 2:** Building Your Own App
 
 [//]: # ( thought excersize, existing app, how do you think it is split up)
 
+<br />
 
 ## Session 8 - Wednesday, June 30, 2021
-**Topics** Full-stack Development: front-end development - HTML
+**Topics:** Full-stack Development: front-end development - HTML
 
 **Slides** 
 
 [//]: #(**[Slides](https://docs.google.com/presentation/d/1qaiVqg4qGjE5Ka9Xq0Rk5e0NsHMjT4QbLSsL5W0pR1U)**)
 
-**Labs** 
+**Labs** Building a Simple Web Page
 
 [//]: #(Jon)
 
+<br />
 
 ## Session 9 - Thursday, July 1, 2021
-**Topics** Full-stack Development: front-end development - CSS
+**Topics:** Full-stack Development: front-end development - CSS
 
 **Slides** 
 
 [//]: #(**[Slides](https://docs.google.com/presentation/d/10rKjL7UtKseYQgUDpRYAVdKWbUJ6F9qyfYnLIajnM1k)**)
 
-**Labs** 
+**Labs** Styling a Simple Web Page
 
 [//]: #(Jon)
 
+<br />
 
 ## Session 10 - Tuesday, July 6, 2021
-**Topics** Full-stack Development: front-end development - How HTML, CSS & JavaScript work together on the web
+**Topics:** Full-stack Development: front-end development - How HTML, CSS & JavaScript work together on the web
 
 **Slides**
 
 [//]: #(**[Slides](https://docs.google.com/presentation/d/1iYcatFj7BL-Ha5gAP65tDVa5colpNH83FCV6pCdUb_g)**)
 
 
-**Labs** 
+**Labs:** [Responsive Comic](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1)
+
+<br />
 
 [//]: # (Jon : Responsive Comic https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-3)
 
 
 ## Session 11 - Wednesday, July 7, 2021
-**Topics** Full-stack Development: DOM manipulation using files - creating HTML, CSS and JS files (directory structure, projects)
+**Topics:** Full-stack Development: DOM manipulation using files - creating HTML, CSS and JS files (directory structure, projects)
 
 **Slides** 
 
@@ -146,15 +150,16 @@ Lab 2: Using Variables with JavaScript
 
 [//]: #(**[Slides](https://docs.google.com/presentation/d/1n8B5cuQ1Vlc4dUkRYPoRhCZ8D9Adu6X8BzmBokJFalk)**)
 
-**Assignment** 
+**Labs:** [Connect 4](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-4)
 
 [//]: # (Jon : Positive Projection  )
 
 [//]: # ( https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md ) 
 
+<br />
 
 ## Session 12 - Thursday, July 8, 2021
-**Topics** More Terminal stuff, file permissions, tools, etc
+**Topics:** More Terminal stuff, file permissions, tools, etc
 
 **Slides** 
 
@@ -162,25 +167,33 @@ Lab 2: Using Variables with JavaScript
 
 [//]: # ( Slides https://docs.google.com/presentation/d/1MTQsPmn__Nzx0EpTZxrqTqwtMlBNGQ7u2IR0W9Jy3Jw )
 
-**Labs** 
+**Lab 1:** Practice With Command Line by Building Project
+
+**Lab 2:** Command Line Heroes Competition
 
 [//]: # (Juan)
 
-## Session 13 - Friday, July 9, 2021
-**Topics** Libraries/Modules/Packages and NPM / Second half: OOP
+<br />
 
-**Slides** Jon
+## Session 13 - Friday, July 9, 2021
+**Topics:** Libraries/Modules/Packages and NPM, OOP
+
+**Slides** 
 
 [//]: # (Jon)
 
 [//]: # (https://docs.google.com/presentation/d/1PqCEsDYhWO1MJIEgUJt-9MimwOEDQL1wbbf6vQmADGU)
 
-**Assignment** 
+**Lab 1:** Install Git, Node, NPM
+
+**Lab 2:** OOP Practice
 
 [//]: # (Jon)
 
+<br />
+
 ## Session 14 - Monday, July 12, 2021
-**Topics** Server Administration : processes, startup, killing, web server, node server, ram and resources, monitoring, storage monitoring
+**Topics:** Server Administration : processes, startup, killing, web server, node server, ram and resources, monitoring, storage monitoring
 
 **Slides** 
 
@@ -188,22 +201,24 @@ Lab 2: Using Variables with JavaScript
 
 [//]: # (https://docs.google.com/presentation/d/180DyqQZthpL3kyW3nIAM0Dvf7--1qp1v-1HjOsBp1gw)
 
-**Labs** 
+**Labs:** Practice with Server Administration and Monitoring
 
 [//]: # (Juan)
 
 **Guest Speaker** 
 
+<br />
 
 ## Session 15 - Tuesday, July 13, 2021
-**Topics** Introduction to NodeJS
+**Topics:** Introduction to NodeJS
 
 **Slides** 
 
 [//]: # ( Slides https://docs.google.com/presentation/d/1qxJKhdLSGKusTMSlsQ1I2Dnxz90Fs9x_rhe9CHQoYno)
 
-**Assignment** 
+**Labs:** Build a Node App
 
+<br />
 
 ## Session 16 - Wednesday, July 14, 2021
 **Topics** Mid-program review
