@@ -35,7 +35,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 3 - Wednesday, June 23, 2021
 **Topics:** Review of Coding Concepts - Control Structures, Functions
 
-**Slides** 
+**[Slides]()** 
 
 **Labs 1:** Practice with Control Structures and Functions
 
@@ -50,7 +50,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 
 [//]: Juan
 
-**Slides** 
+**[Slides]()**
 
 **Labs 1:** Understanding Stacks with Tower of Hanoi
 
@@ -61,7 +61,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 5 - Friday, June 25, 2021
 **Topics:** Collaborative Workflow with Git & GitHub: introduction to Git and GitHub
 
-**Slides** 
+**[Slides]()**
 
 [//]: Jon
 **[](https://docs.google.com/presentation/d/1JQK_VIccxvTQ_gb9Ifhi-A7mXZ5piVtDP4R-3_C38LQ)**
@@ -75,7 +75,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 6 - Monday, June 28, 2021
 **Topics** Collaborative Workflow with Git & GitHub: projects, issues
 
-**Slides** 
+**[Slides]()**
 
 [//]: Jon
 
@@ -88,7 +88,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 7 - Tuesday, June 29, 2021
 **Topics:** Full-stack Development: front-end, back-end, API & databases
 
-**Slides** 
+**[Slides]()**
 
 [//]: Juan 
 
@@ -103,7 +103,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 8 - Wednesday, June 30, 2021
 **Topics:** Full-stack Development: front-end development - HTML
 
-**Slides** 
+**[Slides]()**
 
 [//]: #(**[Slides](https://docs.google.com/presentation/d/1qaiVqg4qGjE5Ka9Xq0Rk5e0NsHMjT4QbLSsL5W0pR1U)**)
 
@@ -116,7 +116,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 9 - Thursday, July 1, 2021
 **Topics:** Full-stack Development: front-end development - CSS
 
-**Slides** 
+**[Slides]()**
 
 [//]: #(**[Slides](https://docs.google.com/presentation/d/10rKjL7UtKseYQgUDpRYAVdKWbUJ6F9qyfYnLIajnM1k)**)
 
@@ -129,7 +129,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 10 - Tuesday, July 6, 2021
 **Topics:** Full-stack Development: front-end development - How HTML, CSS & JavaScript work together on the web
 
-**Slides**
+**[Slides]()**
 
 [//]: #(**[Slides](https://docs.google.com/presentation/d/1iYcatFj7BL-Ha5gAP65tDVa5colpNH83FCV6pCdUb_g)**)
 
@@ -144,7 +144,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 11 - Wednesday, July 7, 2021
 **Topics:** Full-stack Development: DOM manipulation using files - creating HTML, CSS and JS files (directory structure, projects)
 
-**Slides** 
+**[Slides]()**
 
 [//]: #(Jon) 
 
@@ -161,7 +161,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 12 - Thursday, July 8, 2021
 **Topics:** More Terminal stuff, file permissions, tools, etc
 
-**Slides** 
+**[Slides]()**
 
 [//]: # (Juan)
 
@@ -178,7 +178,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 13 - Friday, July 9, 2021
 **Topics:** Libraries/Modules/Packages and NPM, OOP
 
-**Slides** 
+**[Slides]()**
 
 [//]: # (Jon)
 
@@ -195,7 +195,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 14 - Monday, July 12, 2021
 **Topics:** Server Administration : processes, startup, killing, web server, node server, ram and resources, monitoring, storage monitoring
 
-**Slides** 
+**[Slides]()**
 
 [//]: # (Juan)
 
@@ -212,7 +212,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 15 - Tuesday, July 13, 2021
 **Topics:** Introduction to NodeJS
 
-**Slides** 
+**[Slides]()**
 
 [//]: # ( Slides https://docs.google.com/presentation/d/1qxJKhdLSGKusTMSlsQ1I2Dnxz90Fs9x_rhe9CHQoYno)
 
@@ -223,7 +223,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 16 - Wednesday, July 14, 2021
 **Topics:** Mid-program review
 
-**Slides** 
+**[Slides]()**
 
 [//]: # ( Slides https://docs.google.com/presentation/d/16xvNLQKDvjmfwRfot5ER_Ku5rIfHx9Dn4TRa5pT8qqU)
 
@@ -234,7 +234,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 17 - Thursday, July 15, 2021
 **Topics:** Technical Literacy
 
-**Slides** 
+**[Slides]()**
 
 [//]: # (Slides https://docs.google.com/presentation/d/1WommqgnF3iBWrGV-K4LWT5iBMXA19QD4eBZ9RQkyChM)
 
@@ -245,7 +245,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 18 - Friday, July 16, 2021
 **Topics:** Introduction to REACT
 
-**Slides** 
+**[Slides]()**
 
 [//]: # ( Slides https://docs.google.com/presentation/d/1hi86K8t9nhbTo_d8ZsYtvONd8ElBwrL86i-dmbF_U-I )
 
@@ -256,7 +256,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 19 - Monday, July 19, 2021
 **Topics:** REACT: Understanding Components, Props & State
 
-**Slides** 
+**[Slides]()**
 
 [//]: # ( https://docs.google.com/presentation/d/1Im-fdMp_IrxJt4ap9zNXkCaTgSikxUNbzT5AiPWaT9w/edit?usp=sharing)  
 
@@ -269,7 +269,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 20 - Tuesday, July 20, 2021
 **Topics:** Pair programming
 
-**Slides** 
+**[Slides]()**
 
 [//]: # (https://docs.google.com/presentation/d/1rpB7xqh2A8y_lRUQE526G34Xy05tQzXP-ERWhzAhAbs)
 
@@ -282,7 +282,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 21 - Wednesday, July 21, 2021
 **Topics:** REACT: state with hooks
 
-**Slides** 
+**[Slides]()**
 
 [//]: # (https://docs.google.com/presentation/d/1utWXr2UFu0SZLsxz7biPunAbNkFZEy61QLECPR-moIY)
 
@@ -293,7 +293,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 22 - Thursday, July 22, 2021
 **Topics:** REACT: react router and Single Page Applications
 
-**Slides** 
+**[Slides]()**
 
 [//]: # (https://docs.google.com/presentation/d/1WANSJrt0Te1LBizf1l6b4sRammjzHI8MiSeHXF9sK2w)
 
@@ -304,7 +304,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 23 - Friday, July 23, 2021
 **Topics:** Code Patterns: forms and form validation
 
-**Slides** 
+**[Slides]()**
 
 [//]: # (https://docs.google.com/presentation/d/1VytDY1I4mysZZ4hBM8nU5qRHMMrWKXtmyAOGlsO3Y1M)
 
@@ -315,7 +315,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 24 - Monday, July 26, 2021
 **Topics:** Code Patterns: asynchronous calls and promises
 
-**Slides** 
+**[Slides]()**
 
 [//]: # ( https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing )
 
@@ -330,7 +330,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 25 - Tuesday, July 27, 2021
 **Topics:** APIs
 
-**Slides** 
+**[Slides]()**
 
 [//]: # ( https://docs.google.com/presentation/d/1CvfuZVWZpAYOJ_UUNpzILtc2dtd25Glz3xhaa3cxCqQ/edit?usp=sharing )
 
@@ -347,7 +347,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 27 - Thursday, July 29, 2021
 **Topics** Databases: SQL vs NoSQL
 
-**Slides** 
+**[Slides]()**
 
 [//]: # ( https://docs.google.com/presentation/d/1h66_p_q0kKjs_N31fbJw3ejHf6s1plfHVRhTLNjJprQ/edit?usp=sharing )
 
@@ -360,7 +360,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 28 - Friday, July 30, 2021
 **Topics:** Use of NoSQL: 
 
-**Slides** 
+**[Slides]()**
 
 [//]: # ( https://docs.google.com/presentation/d/1FTvD40aVXCyH1gG2b_zUu_wF1ZsEFhocV1m_y4VAg6I )
 
@@ -425,7 +425,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 39 - Monday, August 16, 2021
 **Topics** Welcome back and prep to present Industry Project, What was Learned, Post Assessment
 
-**Slides** 
+**[Slides]()**
 
 [//]: # ( https://docs.google.com/presentation/d/1VEa9OnGZkEWfrgThGIbbVHxJ7cQJfsvRSpQ6rMnpqqs )
 
