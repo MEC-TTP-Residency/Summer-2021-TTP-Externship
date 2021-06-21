@@ -12,7 +12,8 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 1 - Monday, June 21, 2021
 **Topics:** Introduction to format, review class culture, schedule, class norms, Intro to staff and fellow students, logistics (ids, password, headsets), review pre-assessment, github account for labs
 
-**[Slides](https://docs.google.com/presentation/d/1rpermynBEVWqC8lx8VeczTwn0nx-JBGJw2evK9EbSS8)**
+**[Slides](https://docs.google.com/presentation/d/1lN-wZIM3IEMlyIW47aXnF-M4W9uiMLkULOtKKkhxT5E/edit?usp=sharing)**
+<!-- https://docs.google.com/presentation/d/1rpermynBEVWqC8lx8VeczTwn0nx-JBGJw2evK9EbSS8)** -->
 
 **Lab 1:** Pre-assessment
 
