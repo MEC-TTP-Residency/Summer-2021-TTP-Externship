@@ -36,7 +36,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 3 - Wednesday, June 23, 2021
 **Topics:** Review of Coding Concepts - Control Structures, Functions
 
-**[Slides]()** 
+**[Slides](https://docs.google.com/presentation/d/1cAcpy-ewYA5RRrjCzoN2QQ8753ozXJcgx9Lxrnz-kbU)** 
 
 **Labs 1:** Practice with Control Structures and Functions
 
