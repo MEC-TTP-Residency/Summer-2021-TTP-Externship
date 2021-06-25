@@ -15,14 +15,13 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 **[Slides](https://docs.google.com/presentation/d/1lN-wZIM3IEMlyIW47aXnF-M4W9uiMLkULOtKKkhxT5E/edit?usp=sharing)**
 <!-- https://docs.google.com/presentation/d/1rpermynBEVWqC8lx8VeczTwn0nx-JBGJw2evK9EbSS8)** -->
 
-**Lab 1:** Pre-assessment
+**Lab:** Pre-assessment
 
-**Lab 2:** Coding-related ice-breaker event
+**Lab:** Coding-related ice-breaker event
 
 <br />
 
 ## Session 2 - Tuesday, June 22, 2021
-[//]: Juan
 **Topics:** Review of Coding Concepts - Data Flow, Variables, Syntax, Introduction to JavaScript
 
 **[Slides](https://docs.google.com/presentation/d/1FuGng29f2XOuitIvlYu9mMwieFOrcf8IknWFRizsrTE/edit?usp=sharing)**
@@ -37,8 +36,6 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 **[Slides](https://docs.google.com/presentation/d/1cAcpy-ewYA5RRrjCzoN2QQ8753ozXJcgx9Lxrnz-kbU/edit?usp=sharing)** 
 
 **Lab 2:** [Conditionals and For Loops](https://classroom.google.com/c/MzA0NzM2Njk2MzQ0/a/MzY2NTU1MjAxODk4/details)
-
-[//]: Juan
 
 <br />
 
