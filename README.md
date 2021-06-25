@@ -12,7 +12,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 1 - Monday, June 21, 2021
 **Topics:** Introduction to format, review class culture, schedule, class norms, Intro to staff and fellow students, logistics (ids, password, headsets), review pre-assessment, github account for labs
 
-**[Slides](https://docs.google.com/presentation/d/1rpermynBEVWqC8lx8VeczTwn0nx-JBGJw2evK9EbSS8)**
+**[Slides](https://docs.google.com/presentation/d/1rpermynBEVWqC8lx8VeczTwn0nx-JBGJw2evK9EbSS8/edit?usp=sharing)**
 
 **Lab 1:** Pre-assessment
 
@@ -24,22 +24,18 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 [//]: Juan
 **Topics:** Review of Coding Concepts - Data Flow, Variables, Syntax, Introduction to JavaScript
 
-**[Slides](https://docs.google.com/presentation/d/1FuGng29f2XOuitIvlYu9mMwieFOrcf8IknWFRizsrTE)**
+**[Slides](https://docs.google.com/presentation/d/1FuGng29f2XOuitIvlYu9mMwieFOrcf8IknWFRizsrTE/edit?usp=sharing)**
 
-**Lab 1:** Practice Understanding Syntax
-
-**Lab 2:** Using Variables with JavaScript
+**Lab 1:** [Using Variables with JavaScript](https://classroom.google.com/c/MzA0NzM2Njk2MzQ0/a/MzA1MDYzNTI1NTk2/details)
 
 <br />
 
 ## Session 3 - Wednesday, June 23, 2021
 **Topics:** Review of Coding Concepts - Control Structures, Functions
 
-**[Slides](https://docs.google.com/presentation/d/1cAcpy-ewYA5RRrjCzoN2QQ8753ozXJcgx9Lxrnz-kbU)** 
+**[Slides](https://docs.google.com/presentation/d/1cAcpy-ewYA5RRrjCzoN2QQ8753ozXJcgx9Lxrnz-kbU/edit?usp=sharing)** 
 
-**Labs 1:** Practice with Control Structures and Functions
-
-**Labs 2:** Additional Javascript Function Signatures
+**Lab 2:** [Conditionals and For Loops](https://classroom.google.com/c/MzA0NzM2Njk2MzQ0/a/MzY2NTU1MjAxODk4/details)
 
 [//]: Juan
 
@@ -48,13 +44,9 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 ## Session 4 - Thurday, June 24, 2021
 **Topics:** Intro to Data Structures - What are DS?, Arrays, Linked Lists, Stacks & Queues, Graphs, Trees
 
-[//]: Juan
+**[Slides](https://docs.google.com/presentation/d/1M3Bk9LF7kqqbrCrmUn-XtEhFOS0QrPu3BvwqpZhFofk/edit?usp=sharing)**
 
-**[Slides]()**
-
-**Labs 1:** Understanding Stacks with Tower of Hanoi
-
-**Labs 2:** De-constructing JavaScript Linked-List
+**Lab 3:** [Functions](https://classroom.google.com/c/MzA0NzM2Njk2MzQ0/a/MzY2NTY3MzUwMjY3/details)
 
 <br />
 
