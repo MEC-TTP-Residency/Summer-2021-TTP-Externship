@@ -49,164 +49,107 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 <br />
 
 ## Session 5 - Friday, June 25, 2021
-**Topics:** Collaborative Workflow with Git & GitHub: introduction to Git and GitHub
+**Topics:** Data Structures: Arrays & Objects
 
-**[Slides]()**
+**[Slides](https://docs.google.com/presentation/d/1JQK_VIccxvTQ_gb9Ifhi-A7mXZ5piVtDP4R-3_C38LQ/edit?usp=sharing)**
 
-[//]: Jon
-**[](https://docs.google.com/presentation/d/1JQK_VIccxvTQ_gb9Ifhi-A7mXZ5piVtDP4R-3_C38LQ)**
+**Labs:** [Arrays](https://classroom.google.com/u/0/c/MzA0NzM2Njk2MzQ0/a/MzY2ODQzODEzMDg2/details)
 
-**Labs:** [Choose Your Own Adventure](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1)
-
-[//]: Juan
+**Guest Speaker** 
 
 <br />
 
 ## Session 6 - Monday, June 28, 2021
-**Topics** Collaborative Workflow with Git & GitHub: projects, issues
+**Topics** JS Objects, Repl.it, and git / GitHub
 
-**[Slides]()**
+**[Slides](https://docs.google.com/presentation/d/1zYfH1eD6lgG8GiNy4PZRE87bGBYg_8g_t29lQdex2GE/edit?usp=sharing)**
 
-[//]: Jon
-
-**Labs:** [Blackjack Game Engine](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1)
-
-**Guest Speaker** 
+**Labs:** [JS Objects](https://classroom.google.com/u/0/c/MzA0NzM2Njk2MzQ0/a/MzY3MTMwMDQwNTI5/details)
 
 <br />
 
 ## Session 7 - Tuesday, June 29, 2021
-**Topics:** Full-stack Development: front-end, back-end, API & databases
+**Topics:** Foundational Skills in JS
 
-**[Slides]()**
+**[Slides](https://docs.google.com/presentation/d/1tjcYhNMBJJCNPg4upHk42yykAC5aHav7VAR_HtWf4Ds/edit?usp=sharing)**
 
-[//]: Juan 
-
-**Lab 1:** Dissecting Your Favorite App
-
-**Lab 2:** Building Your Own App
-
-[//]: # ( thought excersize, existing app, how do you think it is split up)
+**Labs:** [JS Control Structures](https://classroom.google.com/u/0/c/MzA0NzM2Njk2MzQ0/a/MzY3Mjc1MTI3MjQx/details)
 
 <br />
 
 ## Session 8 - Wednesday, June 30, 2021
-**Topics:** Full-stack Development: front-end development - HTML
+**Topics:** JS Object Chaining, HTML, and Independent Learning Strategies
 
-**[Slides]()**
+**[Slides](https://docs.google.com/presentation/d/1qaiVqg4qGjE5Ka9Xq0Rk5e0NsHMjT4QbLSsL5W0pR1U/edit?usp=sharing)**
 
-[//]: #(**[Slides](https://docs.google.com/presentation/d/1qaiVqg4qGjE5Ka9Xq0Rk5e0NsHMjT4QbLSsL5W0pR1U)**)
-
-**Labs** Building a Simple Web Page
-
-[//]: #(Jon)
+**Labs** [JS Objects and Method Chaining]( https://classroom.google.com/u/0/c/MzA0NzM2Njk2MzQ0/a/MzY3NDEwNjkxMzI5/details)
 
 <br />
 
 ## Session 9 - Thursday, July 1, 2021
-**Topics:** Full-stack Development: front-end development - CSS
+**Topics:** Intro to Final Project, HTML Attributes, HTML Nesting
 
-**[Slides]()**
+**[Slides](https://docs.google.com/presentation/d/10rKjL7UtKseYQgUDpRYAVdKWbUJ6F9qyfYnLIajnM1k/edit?usp=sharing)**
 
-[//]: #(**[Slides](https://docs.google.com/presentation/d/10rKjL7UtKseYQgUDpRYAVdKWbUJ6F9qyfYnLIajnM1k)**)
+**Labs** [HTML Resume Websites](https://classroom.google.com/u/0/c/MzA0NzM2Njk2MzQ0/a/MzY3NTYyMDk0MDg3/details)
 
-**Labs** Styling a Simple Web Page
-
-[//]: #(Jon)
 
 <br />
 
 ## Session 10 - Tuesday, July 6, 2021
-**Topics:** Full-stack Development: front-end development - How HTML, CSS & JavaScript work together on the web
+**Topics:** Full-stack Development: front-end development - Inline Styling and Positioning
 
-**[Slides]()**
+**[Slides](https://docs.google.com/presentation/d/1iYcatFj7BL-Ha5gAP65tDVa5colpNH83FCV6pCdUb_g/edit?usp=sharing)**
 
-[//]: #(**[Slides](https://docs.google.com/presentation/d/1iYcatFj7BL-Ha5gAP65tDVa5colpNH83FCV6pCdUb_g)**)
-
-
-**Labs:** [Responsive Comic](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-1)
+**Labs:** [Our Birthday Newspapers!](https://classroom.google.com/u/0/c/MzA0NzM2Njk2MzQ0/a/MzY3OTc0MDE3ODIz/details)
 
 <br />
 
-[//]: # (Jon : Responsive Comic https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-3)
-
-
 ## Session 11 - Wednesday, July 7, 2021
-**Topics:** Full-stack Development: DOM manipulation using files - creating HTML, CSS and JS files (directory structure, projects)
+**Topics:** Full-stack Development: CSS Classes, IDs & Selectors
 
-**[Slides]()**
+**[Slides](https://docs.google.com/presentation/d/1n8B5cuQ1Vlc4dUkRYPoRhCZ8D9Adu6X8BzmBokJFalk/edit?usp=sharing)**
 
-[//]: #(Jon) 
-
-[//]: #(**[Slides](https://docs.google.com/presentation/d/1n8B5cuQ1Vlc4dUkRYPoRhCZ8D9Adu6X8BzmBokJFalk)**)
-
-**Labs:** [Connect 4](https://github.com/jonathan-chin/mec-ttp-2021-winter-assignment-4)
-
-[//]: # (Jon : Positive Projection  )
-
-[//]: # ( https://github.com/jonathan-chin/mec-ttp-2021-winter/blob/master/assignments/6-positive-project.md ) 
+**Labs:** [Exercise Your CSS Selection Skills](https://classroom.google.com/u/0/c/MzA0NzM2Njk2MzQ0/a/MzY4MDc0NDY5ODM4/details)
 
 <br />
 
 ## Session 12 - Thursday, July 8, 2021
-**Topics:** More Terminal stuff, file permissions, tools, etc
+**Topics:** Frameworks and Materialize CSS
 
-**[Slides]()**
+**[Slides](https://docs.google.com/presentation/d/1MTQsPmn__Nzx0EpTZxrqTqwtMlBNGQ7u2IR0W9Jy3Jw/edit?usp=sharing)**
 
-[//]: # (Juan)
-
-[//]: # ( Slides https://docs.google.com/presentation/d/1MTQsPmn__Nzx0EpTZxrqTqwtMlBNGQ7u2IR0W9Jy3Jw )
-
-**Lab 1:** Practice With Command Line by Building Project
-
-**Lab 2:** Command Line Heroes Competition
-
-[//]: # (Juan)
+**Labs:** [Robo Control](https://classroom.google.com/u/0/c/MzA0NzM2Njk2MzQ0/a/MzY4MTc1MjEwNDQ3/details)
 
 <br />
 
 ## Session 13 - Friday, July 9, 2021
-**Topics:** Libraries/Modules/Packages and NPM, OOP
+**Topics:** Materialize CSS Continued
 
-**[Slides]()**
+**[Slides](https://docs.google.com/presentation/d/1PqCEsDYhWO1MJIEgUJt-9MimwOEDQL1wbbf6vQmADGU/edit?usp=sharing)**
 
-[//]: # (Jon)
+**Labs:** [More Robo Control!](https://classroom.google.com/u/0/c/MzA0NzM2Njk2MzQ0/a/MzY4MTc1MjEwNDQ3/details)
 
-[//]: # (https://docs.google.com/presentation/d/1PqCEsDYhWO1MJIEgUJt-9MimwOEDQL1wbbf6vQmADGU)
-
-**Lab 1:** Install Git, Node, NPM
-
-**Lab 2:** OOP Practice
-
-[//]: # (Jon)
-
+**Guest Speaker** 
 <br />
 
 ## Session 14 - Monday, July 12, 2021
-**Topics:** Server Administration : processes, startup, killing, web server, node server, ram and resources, monitoring, storage monitoring
+**Topics:** Responsive Design
 
-**[Slides]()**
+**[Slides](https://docs.google.com/presentation/d/180DyqQZthpL3kyW3nIAM0Dvf7--1qp1v-1HjOsBp1gw/edit?usp=sharing)**
 
-[//]: # (Juan)
-
-[//]: # (https://docs.google.com/presentation/d/180DyqQZthpL3kyW3nIAM0Dvf7--1qp1v-1HjOsBp1gw)
-
-**Labs:** Practice with Server Administration and Monitoring
-
-[//]: # (Juan)
-
-**Guest Speaker** 
+**Labs:** [Responsive Web Comic](https://classroom.google.com/u/0/c/MzA0NzM2Njk2MzQ0/a/MzcwNjI0MzgzNTMw/details)
 
 <br />
 
 ## Session 15 - Tuesday, July 13, 2021
-**Topics:** Introduction to NodeJS
+**Topics:** Introduction to JQuery
 
 **[Slides]()**
 
 [//]: # ( Slides https://docs.google.com/presentation/d/1qxJKhdLSGKusTMSlsQ1I2Dnxz90Fs9x_rhe9CHQoYno)
 
-**Labs:** Build a Node App
+**Labs:** Practice with JQuery
 
 <br />
 
@@ -233,7 +176,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 <br />
 
 ## Session 18 - Friday, July 16, 2021
-**Topics:** Introduction to REACT
+**Topics:** Selection with JQuery
 
 **[Slides]()**
 
@@ -244,7 +187,7 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 <br />
 
 ## Session 19 - Monday, July 19, 2021
-**Topics:** REACT: Understanding Components, Props & State
+**Topics:** Event Handling
 
 **[Slides]()**
 
@@ -270,18 +213,18 @@ Experiential Learning Externship for CS and CIS students at Medgar Evers College
 <br />
 
 ## Session 21 - Wednesday, July 21, 2021
-**Topics:** REACT: state with hooks
+**Topics:** Introduction to JQuery UI
 
 **[Slides]()**
 
 [//]: # (https://docs.google.com/presentation/d/1utWXr2UFu0SZLsxz7biPunAbNkFZEy61QLECPR-moIY)
 
-**Labs:** Fun with React Hooks
+**Labs:** Fun with JQuery UI
 
 <br />
 
 ## Session 22 - Thursday, July 22, 2021
-**Topics:** REACT: react router and Single Page Applications
+**Topics:** Bringing it all together: Materialize CSS with JQuery
 
 **[Slides]()**
 
