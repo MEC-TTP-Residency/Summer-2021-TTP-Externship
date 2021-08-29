@@ -1,0 +1,50 @@
+Control Structures Lab
+
+1) Write a function that takes 2 arguments that are numbers. Return 'first' if the first argument is larger or 'second' if the second argument is larger.
+
+
+
+2) Write a function that takes 1 argument named guess, and has a secret number hardcoded into it. Return 'smaller' if the guess is smaller than the secret, 'larger' if the guess is larger than the secret, and 'winner' if the guess is exactly the secret. Assume that guess and the secret number are positive integers.
+
+
+
+3) There are some bugs in the following code. Fix them so that the function adds 1 to every number in the input array.
+
+function incrementItems(arr) {
+  for (let i = 0; i < array.length; i++){
+    arr[i] === arr[i] + 1;
+  }
+  return array;
+}
+
+
+
+4) There are some bugs in the following code. Fix them so that the code runs smoothly and does not crash:
+
+function printArray(number) {
+  var newArray = [];
+
+  for(var i = 1; i <= number;) {
+    newArray.push(i);
+  }
+
+  return newArray;
+}
+
+
+
+5) Write a function that takes 3 arguments that are numbers named start, end, and nth. console.log() all nth numbers between start and end. Assume that start < end and that nth is positive.
+
+For example:
+
+nth_numbers(10, 20, 4) -> 10, 14, 18
+nth_numbers(7, 70, 10) -> 7, 17, 27, 37, 47, 57, 67
+
+
+
+6) Redo exercise 2 except that instead of returning 'smaller' and 'larger', return 'colder' and 'hotter'. The function must keep track of the user's last guess and return 'colder' if it is further away than the previous guess or 'hotter' if it is closer than the previous guess. If the guess is exactly the secret answer, return 'winner'. Assume that guess and the secret number are positive integers
+
+
+
+
+

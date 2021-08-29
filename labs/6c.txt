@@ -1,0 +1,56 @@
+Arrays Lab
+
+1) Write a function that takes 2 arguments: an array and a number named n. Return the nth element in the array. Assume the array has at least 1 element and that n is a positive integer less than the number of elements in the array. Remember: arrays don't start from index 1!
+
+For example:
+
+get_nth_element([2, 3, 5, 7, 11, 13], 1) -> 2
+get_nth_element([2, 3, 5, 7, 11, 13], 3) -> 5
+get_nth_element([2, 3, 5, 7, 11, 13], 6) -> 13
+
+
+
+
+
+2) Write a function that takes 1 argument, an array of single letters. Remove letters from the end of the array until you remove an 'x' and return the leftover array. Assume that the array has at least one 'x'.
+
+For example:
+
+remove_xs(['z', 's', 'r', 'f', 'x', 'a', 'a']) -> ['z', 's', 'r', 'f', 'x']
+remove_xs(['a', 'b', 'x', 'x', 'p', 'x', 'r', 'z']) -> ['a', 'b', 'x', 'x', 'p']
+remove_xs(['x', 'a', 'b', 'c', 'd', 'e', 'f', 'g']) -> []
+
+
+
+
+
+3) There are a few bugs in the following code. Identify and fix them so that the function takes 1 argument, that's an array of numbers, and returns the sum of all the elements:
+
+function sumArray(arr) {
+	sum ,	
+  for (i=0, i<arr, i++) {
+	  sum+=arr[i]
+	}
+  return sum
+}
+
+
+
+
+
+
+4) Do exercise 1 again except return -999 if anything is wrong with n. For example, if n is not a positive integer or if it is not an integer or if ... ...
+
+get_nth_element_extra([2, 3, 5, 7, 11, 13], 3) -> 5
+get_nth_element_extra([2, 3, 5, 7, 11, 13], 3.14159) -> -999
+
+
+
+
+
+5) Do exercise 2 again except have the function take 2 arguments: an array of single letters and a single letter to search for. Remove letters from the end of the array until you have removed the search argument. Do not assume that the search character exists in the array argument. If it does not exist in the array, return null;
+
+remove_char(['z', 's', 'r', 'f', 'x', 'a', 'a']) -> ['z', 's', 'r', 'f', 'x']
+remove_char(['a', 'b', 'x', 'x', 'p', 'x', 'r', 'z']) -> ['a', 'b', 'x', 'x', 'p']
+remove_char(['x', 'a', 'b', 'c', 'd', 'e', 'f', 'g']) -> []
+
